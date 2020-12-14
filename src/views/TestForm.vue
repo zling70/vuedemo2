@@ -135,7 +135,7 @@
                 </el-col>
                 <el-col :span='16'>
                     <el-form-item label="">                        
-                        <el-input v-model="customer.areaname" placeholder="详细地址"></el-input>
+                        <el-input v-model="customer.areaname" placeholder="详细地址 株洲市石峰区"></el-input>
                     </el-form-item>
                 </el-col>
             </el-row>
